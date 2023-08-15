@@ -1,0 +1,11 @@
+h2 {
+  font-size: 2em;
+}
+.hidden {
+  visibility: hidden;
+}
+.hover:hover,
+.hover:focus {
+  opacity: 0;
+  cursor: pointer;
+}
